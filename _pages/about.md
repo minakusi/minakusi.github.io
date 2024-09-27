@@ -13,3 +13,4 @@ Hi! I'm a <b>passionate problem solver who thrives on exploring new fields</b> a
 CV
 ------
 For more details about my experience and skills, please refer to my [resume](https://drive.google.com/file/d/1hN4cIG27mGzt3qSb-rLE1Ienqti9mm8q/view?usp=drive_link).
+<iframe width="100%" height="800" src="../files/CV(kor).pdf">
