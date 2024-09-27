@@ -12,5 +12,5 @@ redirect_from:
 
 CV
 ------
-For more details about my experience and skills, please refer to my resume below.
+<div style="text-align: justify">For more details about my experience and skills, please refer to my resume below.</div>
 <iframe width="100%" height="800" src="../files/CV(kor).pdf">
